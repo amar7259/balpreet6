@@ -9,19 +9,29 @@ Welcome to my GitHub profile! I am a dedicated Computer Engineering student with
 🚀 **Skills:**
 - **Languages:** C, C++, Java, Python
 - **Web Development:** HTML, CSS, JavaScript
-- **Frameworks:** Flask, Django
-- **Database:** MySQL
+- **Data Analysis and Data Science:** Pandas,Numpy, Linear regression, classification, NLP
+- **Database:** MySQL,Oracle
 - **Version Control:** Git
 
 🛠️ **Projects:**
-### [Project 1 Name]
-- [Brief description and purpose]
-- **Technologies:** [List of technologies]
+### [Amazon Product Review]
+- [Online consumers often go through the customer review of Amazon product and then decide whether to purchase the product or not. The model is developed using machine learning techniques using NLP and is trained on Amazon’s product review database. The accuracy of the model was retained at rate of 80%.]
+- **Technologies:** [Python, Pandas, NLP]
 - [Link to the project repository or live demo]
 
-### [Project 2 Name]
-- [Brief description and purpose]
-- **Technologies:** [List of technologies]
+### [CU Map]
+- [We as a team of 5 students made this project, in this with the use of Google Map API a customized map for the university is created for the better navigation platform for visitors or students. This was a google map-based application designed on android platform which helps in navigation, time management and safety.]
+- **Technologies:** [Java, Google Map API]
+- [Link to the project repository or live demo]
+
+  ### [Password Strength Tester]
+- [The project Password Strength tester is made using HTML, CSS and Java Script. The Java Script which we developed takes in the password and grades the strength of the password as Weak, Strong, Very Strong, Excellent. This script also throws an error message when the password doesn’t follow the instructions.]
+- **Technologies:** [HTML, CSS and Java Script]
+- [Link to the project repository or live demo]
+
+  ### [House Price Prediction]
+- [This project was worked to see what all factors are taken into consideration by a potential home buyer in Bangalore city. The team which worked on this project of size 4, where we all collaborated as team, analyzed the data using various relevant visualization and then we applied regression analysis to answer the big question. We used Python language to ingest the data in a data frame, cleansed the data, then we applied “Plotty” package to visualize the data and then we used regression model.]
+- **Technologies:** [Plotty, Python, Regression models]
 - [Link to the project repository or live demo]
 
 📈 **GitHub Stats:**
