@@ -28,7 +28,7 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
   ### Password Strength Tester
 - The project Password Strength tester is made using HTML, CSS and Java Script. The Java Script which we developed takes in the password and grades the strength of the password as Weak, Strong, Very Strong, Excellent. This script also throws an error message when the password doesn’t follow the instructions.
 - **Technologies:** HTML, CSS and Java Script
-- [Link to the project repository or live demo]
+- https://github.com/balpreet6/balpreet6/blob/main/passwordstrengthtester.zip
 
   ### House Price Prediction
 - This project was worked to see what all factors are taken into consideration by a potential home buyer in Bangalore city. The team which worked on this project of size 4, where we all collaborated as team, analyzed the data using various relevant visualization and then we applied regression analysis to answer the big question. We used Python language to ingest the data in a data frame, cleansed the data, then we applied “Plotty” package to visualize the data and then we used regression model.
