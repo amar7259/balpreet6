@@ -1,36 +1,47 @@
-# Welcome to Balpreet Kaur's GitHub Profile! 👋
+# Balpreet Kaur
+## Computer Engineering Student
 
-## About Me
-- 🎓 I am currently pursuing a Bachelor's in Computer Engineering.
-- 💻 Passionate about software development and coding.
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📧 [Email](mailto:your.email@example.com)
+Welcome to my GitHub profile! I am a dedicated Computer Engineering student with a passion for coding and problem-solving.
 
-## Skills
+🎓 **Education:**
+- Bachelor of Computer Engineering, Chandigarh University, [Expected Graduation: May, 2025]
+
+🚀 **Skills:**
 - **Languages:** C, C++, Java, Python
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** Flask, Django
 - **Database:** MySQL
 - **Version Control:** Git
 
-## Projects
+🛠️ **Projects:**
 ### [Project 1 Name]
-- Brief description and purpose
-- Technologies used: [List of technologies]
+- [Brief description and purpose]
+- **Technologies:** [List of technologies]
 - [Link to the project repository or live demo]
 
 ### [Project 2 Name]
-- Brief description and purpose
-- Technologies used: [List of technologies]
+- [Brief description and purpose]
+- **Technologies:** [List of technologies]
 - [Link to the project repository or live demo]
 
-## GitHub Stats
+📈 **GitHub Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
 
-## Connect with Me
+🌐 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Email](mailto:your.email@example.com)
 - [Twitter](https://twitter.com/your-twitter-handle)
+
+💼 **Resume:**
+- [Link to your resume hosted on a platform like Google Drive or Dropbox]
 
 ## Let's Collaborate!
 I am open to collaboration on exciting projects. If you have any ideas or opportunities, feel free to reach out.
 
+---
+
+**Note:** Replace `[Your Full Name]`, `[Your University]`, `[Month, Year]`, `[your-username]`, `[your-linkedin-profile]`, `[your-email@example.com]`, `[your-twitter-handle]`, and other placeholders with your actual information.
+
+Make sure that your GitHub repository is public so that employers can access and view your projects. Additionally, if you have a resume hosted online, provide a link to it for employers to download and review.
+
+Remember, the key is to showcase your skills, projects, and a bit of your personality to make a positive impression on potential employers.
