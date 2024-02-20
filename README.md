@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I am a dedicated Computer Engineering student with
 
 🌐 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Email](mailto:your.email@example.com)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://in.linkedin.com/in/balpreetkaur1)
+- [Email](mailto:balpreetsidhu693@gmail.com)
 
 💼 **Resume:**
 - [Link to your resume hosted on a platform like Google Drive or Dropbox]
