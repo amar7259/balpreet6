@@ -47,11 +47,3 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
 
 ## Let's Collaborate!
 I am open to collaboration on exciting projects. If you have any ideas or opportunities, feel free to reach out.
-
----
-
-
-
-Make sure that your GitHub repository is public so that employers can access and view your projects. Additionally, if you have a resume hosted online, provide a link to it for employers to download and review.
-
-Remember, the key is to showcase your skills, projects, and a bit of your personality to make a positive impression on potential employers.
