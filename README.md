@@ -1,7 +1,8 @@
 # Balpreet Kaur
 ## Computer Engineering Student
 
-Welcome to my GitHub profile! I am a dedicated Computer Engineering student with a passion for coding and problem-solving.
+**Education:**
+Dedicated and highly motivated Computer Science Engineering student seeking an internship opportunity to apply and further develop my technical skills while contributing to the success of a dynamic organization. Eager to leverage my knowledge of software development, problem-solving abilities, and strong work ethic in a real-world setting.
 
 🎓 **Education:**
 - Bachelor of Computer Engineering, Chandigarh University, [Expected Graduation: May, 2025]
@@ -49,7 +50,7 @@ I am open to collaboration on exciting projects. If you have any ideas or opport
 
 ---
 
-**Note:** Replace `[Your Full Name]`, `[Your University]`, `[Month, Year]`, `[your-username]`, `[your-linkedin-profile]`, `[your-email@example.com]`, `[your-twitter-handle]`, and other placeholders with your actual information.
+
 
 Make sure that your GitHub repository is public so that employers can access and view your projects. Additionally, if you have a resume hosted online, provide a link to it for employers to download and review.
 
