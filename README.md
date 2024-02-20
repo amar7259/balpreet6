@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Engineering student with
 - [Link to the project repository or live demo]
 
 📈 **GitHub Stats:**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balpreet6&show_icons=true&hide=contribs,prs)
 
 🌐 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
