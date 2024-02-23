@@ -18,7 +18,7 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
 ### Amazon Product Review
 - [Online consumers often go through the customer review of Amazon product and then decide whether to purchase the product or not. The model is developed using machine learning techniques using NLP and is trained on Amazon’s product review database. The accuracy of the model was retained at rate of 80%.
 - **Technologies:** Python, Pandas, NLP
-- [Link to the project repository or live demo]
+- https://github.com/balpreet6/balpreet6/blob/main/sentimentalanalysis.ipynb
 
 ### CU Map
 - We as a team of 5 students made this project, in this with the use of Google Map API a customized map for the university is created for the better navigation platform for visitors or students. This was a google map-based application designed on android platform which helps in navigation, time management and safety.
@@ -33,7 +33,7 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
   ### House Price Prediction
 - This project was worked to see what all factors are taken into consideration by a potential home buyer in Bangalore city. The team which worked on this project of size 4, where we all collaborated as team, analyzed the data using various relevant visualization and then we applied regression analysis to answer the big question. We used Python language to ingest the data in a data frame, cleansed the data, then we applied “Plotty” package to visualize the data and then we used regression model.
 - **Technologies:** Plotty, Python, Regression models
-- [Link to the project repository or live demo]
+- https://github.com/balpreet6/balpreet6/blob/main/Bangalore_House_Price.ipynb
 
 📈 **GitHub Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balpreet6&show_icons=true&hide=contribs,prs)
