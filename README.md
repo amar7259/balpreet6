@@ -23,7 +23,6 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
 ### CU Map
 - We as a team of 5 students made this project, in this with the use of Google Map API a customized map for the university is created for the better navigation platform for visitors or students. This was a google map-based application designed on android platform which helps in navigation, time management and safety.
 - **Technologies:** Java, Google Map API
-- [Link to the project repository or live demo]
 
   ### Password Strength Tester
 - The project Password Strength tester is made using HTML, CSS and Java Script. The Java Script which we developed takes in the password and grades the strength of the password as Weak, Strong, Very Strong, Excellent. This script also throws an error message when the password doesn’t follow the instructions.
