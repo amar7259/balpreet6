@@ -42,7 +42,7 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
 - [Email](mailto:balpreetsidhu693@gmail.com)
 
 💼 **Resume:**
-- [Link to your resume hosted on a platform like Google Drive or Dropbox]
+- https://github.com/balpreet6/balpreet6/blob/main/Balpreet%20Kaur%20Resume.pdf
 
 ## Let's Collaborate!
 I am open to collaboration on exciting projects. If you have any ideas or opportunities, feel free to reach out.
