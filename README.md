@@ -34,6 +34,11 @@ Dedicated and highly motivated Computer Science Engineering student seeking an i
 - **Technologies:** Plotty, Python, Regression models
 - https://github.com/balpreet6/balpreet6/blob/main/Bangalore_House_Price.ipynb
 
+### Chatbot
+In a collaborative university project involving a team of four, I played a pivotal role in the development of a sophisticated Chatbot using Chatbot. This experience not only showcased my individual contributions to the project but also highlighted my ability to work seamlessly within a team. Our goal was to create an intelligent conversational agent capable of dynamic and context-aware dialogues. Leveraging Chatbot’s Python library, we successfully implemented a robust and interactive chat interface. Throughout the project, I actively contributed to programming tasks, problem-solving, and the integration of third-party libraries. This collaborative effort not only demonstrated my technical prowess but also underscored my commitment to teamwork and shared success.
+- **Technologies:** Plotty, Python, Regression models, NLP
+- https://github.com/balpreet6/balpreet6/blob/main/Bangalore_House_Price.ipynb
+
 📈 **GitHub Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balpreet6&show_icons=true&hide=contribs,prs)
 
