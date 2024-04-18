@@ -1,0 +1,4 @@
+rentalId,customerId,videoId,rentalDate,returnDate,rentalDuration,rentalCost
+201,101,301,2022-01-15,2022-01-20,5,25.00
+202,102,302,2022-01-16,2022-01-18,2,10.00
+203,103,303,2022-01-17,2022-01-22,5,25.00

@@ -1,0 +1,4 @@
+videoId,title,genre,rating,releaseYear,rentalDuration,availabilityStatus
+301,The Shawshank Redemption,Drama,R,1994,180,TRUE
+302,Inception,Sci-Fi,PG-13,2010,160,TRUE
+303,Pulp Fiction,Crime,R,1994,154,TRUE

@@ -1,0 +1,4 @@
+customerId,name,contactDetails,membershipType
+101,John Doe,johndoe@example.com,Gold
+102,Jane Smith,janesmith@example.com,Silver
+103,Michael Johnson,michaeljohnson@example.com,Platinum
