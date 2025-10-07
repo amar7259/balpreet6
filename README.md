@@ -1,8 +1,12 @@
 # Balpreet Kaur
-## Computer Engineering Student
+## Associate Technical writer @Cotivit
 
-**Education:**
-Dedicated and highly motivated Computer Science Engineering student seeking an internship opportunity to apply and further develop my technical skills while contributing to the success of a dynamic organization. Eager to leverage my knowledge of software development, problem-solving abilities, and strong work ethic in a real-world setting.
+**Profile Summary:**
+I am a Technical Writer at Cotiviti with a strong foundation in software engineering, data science, and AI technologies. Having completed my B.Tech in Computer Science (2025), I bring a unique blend of technical expertise and communication skills—capable of both building solutions and making complex ideas accessible through clear, structured documentation.
+
+My background includes hands-on experience in software development, problem-solving, and data-driven analysis, along with a passion for Machine Learning, Data Science, and Generative AI. This combination allows me to bridge the gap between development teams and end-users, ensuring that innovative solutions are both impactful and well-understood.
+
+I thrive in fast-paced, collaborative environments where technology and communication intersect. Passionate about continuous learning and innovation, I aim to contribute to projects that leverage cutting-edge technologies while expanding my skill set across both technical and analytical domains.
 
 🎓 **Education:**
 - Bachelor of Computer Engineering, Chandigarh University, [Expected Graduation: May, 2025]
