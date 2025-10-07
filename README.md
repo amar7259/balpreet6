@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently a B.E Computer Science student at Chandigarh unversity<br>I'm looking for summer internship<br>
-Passionate B. Tech student in Computer Science Engineering with expertise in NLP, AI/ML, and Software Engineering. Eager to contribute to challenging environment, showcasing a blend of deep-thinking research skills and fast-paced execution. Proven collaborator with interdisciplinary teams, offering insights and implementing scalable solutions. Excited about bringing fresh perspectives to real-world challenges in a dynamic setting
+I am a Technical Writer at Cotiviti with a strong foundation in software engineering, data science, and AI technologies. Having completed my B.Tech in Computer Science (2025), I bring a unique blend of technical expertise and communication skills—capable of both building solutions and making complex ideas accessible through clear, structured documentation.
+
+My background includes hands-on experience in software development, problem-solving, and data-driven analysis, along with a passion for Machine Learning, Data Science, and Generative AI. This combination allows me to bridge the gap between development teams and end-users, ensuring that innovative solutions are both impactful and well-understood.
+
+I thrive in fast-paced, collaborative environments where technology and communication intersect. Passionate about continuous learning and innovation, I aim to contribute to projects that leverage cutting-edge technologies while expanding my skill set across both technical and analytical domains.
 
 
 ## 🌐 Socials:
@@ -32,6 +35,7 @@ Passionate B. Tech student in Computer Science Engineering with expertise in NLP
 - **Data Analysis and Data Science:** Pandas,Numpy, Linear regression, classification, NLP
 - **Database:** MySQL,Oracle
 - **Version Control:** Git
+- **Technical Writing:** MadclapFare
 
 🛠️ **Projects:**
 ### Amazon Product Review
